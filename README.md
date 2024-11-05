@@ -1,4 +1,3 @@
-<div style="background: black;>
 <h1 align="center">Hi 👋, I'm Anjali Saxena</h1>
 <h3 align="center">Passionate about FrontEnd Developer</h3>
 
@@ -36,4 +35,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anjali-93&show_icons=true&locale=en&layout=compact" alt="anjali-93" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjali-93&show_icons=true&locale=en" alt="anjali-93" /></p>
-</div>
